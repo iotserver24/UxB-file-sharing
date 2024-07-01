@@ -11,39 +11,39 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "7153149465:AAH6U5fS6OP_Mrz4u_4PMIcsFg8HtnPLXKM"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "6717221647"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "24970621"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://R3AP3Reditz:18751anish@cluster0.qsndmda.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "AnimeVerse database channel"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "79fbc802b7af4a896b88db7197858cc9"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1002172378143"
     },
     "FORCESUB_CHANNEL":{
       "description": "id of the first channel, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1002215448063"
      },
     "FORCESUB_CHANNEL2":{
       "description": "id of the second channel, if you want enable force sub feature else put 0",
-      "value": "0"  
+      "value": "-1002166639637"  
       },
     "FORCESUB_CHANNEL3":{
       "description": "id of your group, if you want enable force sub feature else put 0",
@@ -51,7 +51,7 @@
     },
     "START_MSG": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "𝐇𝐢 𝐃𝐮𝐝𝐞.. {first}\n\n𝐈 𝐚𝐦 𝐚 𝐟𝐢𝐥𝐞 𝐬𝐭𝐨𝐫𝐞 𝐛𝐨𝐭\n𝐘𝐨𝐮 𝐜𝐚𝐧 𝐚𝐜𝐜𝐞𝐬𝐬 𝐟𝐢𝐥𝐞𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐥𝐢𝐧𝐤..!"
+      "value": "𝐇𝐢 𝐃𝐮𝐝𝐞.. {first}\n\n𝐈 𝐚𝐦 𝐚 ANIMEVERSE Official bot 𝐛𝐨𝐭\n𝐘𝐨𝐮 𝐜𝐚𝐧 𝐚𝐜𝐜𝐞𝐬𝐬 the files by subscribing my channel..!"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
